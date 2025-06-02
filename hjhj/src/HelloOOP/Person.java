@@ -9,7 +9,7 @@ package HelloOOP;
     }
 
     void greet() {
-        System.out.println("Sain baina uu! Minii ner:" + name + ", Bi" + age + " nastai.");
+        System.out.println("Sain baina uu! Minii ner:" + name + ", Bi " + age + " nastai.");
     }
 }
 
